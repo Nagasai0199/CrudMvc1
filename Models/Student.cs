@@ -23,5 +23,6 @@ namespace CrudMvc1.Models
         public bool course3 { get; set; }
 
         public bool course4 { get; set; }
+        public bool course5 { get; set; }
     }
 }
