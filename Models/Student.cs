@@ -21,5 +21,7 @@ namespace CrudMvc1.Models
         public string Country { get; set; }
         public bool course2 { get; set; }
         public bool course3 { get; set; }
+
+        public bool course4 { get; set; }
     }
 }
